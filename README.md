@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ypyakymiv/Operum/master/RM_res/icon.png"/><br>
+  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/logo.png?raw=true" width="20%"/><br>
   Operum
 </h1>
 
