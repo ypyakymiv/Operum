@@ -3,8 +3,9 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/sign_in.gif" style="align:center;" width="30%" />
-  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/main.gif">
+  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/sign_in.gif" width="30%" />
+  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/main.gif" width="30%" />
+  <img src="https://github.com/ypyakymiv/Operum/blob/master/RM_res/trial.gif" width="30%" />
 </h1>
 
 
