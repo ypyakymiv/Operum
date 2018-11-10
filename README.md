@@ -14,7 +14,7 @@ by organizers in their area, track where their friends are going for community
 service, and ask questions regarding events.
 
 TO-DO:
-  - electronic service signatures (to circumvent the current ineficient use of paper)
+  - electronic service signatures (to circumvent the current inefficient use of paper)
   - format signatures to hour sheet (take hours saved on application and create a federal service sheet pdf)
   - qr-code sign-in / sign-out
 
